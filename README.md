@@ -21,5 +21,10 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
   <!--TailwindCss-->
   <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=flat-square&logo=tailwind%20css&logoColor=white"/>
+  <br/>
+  <br/>
+
+  ## 🔍 Github Stats
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxxnayun_Github_Username)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
