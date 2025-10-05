@@ -20,6 +20,6 @@
   <!--React-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
   <!--TailwindCss-->
-  <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=flat-square&logo=tailwind%20css&logoColor=white"/>
   
 </div>
