@@ -3,6 +3,6 @@
 </div>
 
 <div>
-  ## :cyclone: About Me
+  ## :cyclone: About Me <br>
   ####
 </div>
