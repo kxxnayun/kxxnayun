@@ -1,1 +1,2 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=ADD8E6&height=300&section=header&text=Nayun's%20Github&fontSize=70&fontColor=FFFFFF)
+:thought_balloon:
