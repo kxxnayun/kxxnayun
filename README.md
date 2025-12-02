@@ -29,10 +29,10 @@
   <br/>
 
   ## 🔍 Github Stats
-  [![kimnayun's GitHub stats](github-readme-stats-kappa-seven-ltejvp9li6.vercel.app/api?username=kxxnayun)](https://github.com/anuraghazra/github-readme-stats)
+  [![kimnayun's GitHub stats](https://github-readme-stats-chi-eight-42.vercel.app/api?username=kxxnayun)](https://github.com/anuraghazra/github-readme-stats)
 
   <br/>
 
-  [![Top Langs](https://github-readme-stats-kappa-seven-ltejvp9li6.vercel.app/api/top-langs/?username=kxxnayun)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-chi-eight-42.vercel.app/api/top-langs/?username=kxxnayun)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
