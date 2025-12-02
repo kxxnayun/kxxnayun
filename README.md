@@ -29,9 +29,10 @@
   <br/>
 
   ## 🔍 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats-chi-eight-42.vercel.app/api?username=kxxnayun)](https://github-readme-stats-chi-eight-42.vercel.app)
+  [![Anurag's GitHub stats](https://github-readme-stats-qet2.vercel.app/api?username=kxxnayun)](https://github-readme-stats-qet2.vercel.app)
   <br/>
-  [![Top Langs](https://github-readme-stats-chi-eight-42.vercel.app/api/top-langs/?username=kxxnayun)](https://github-readme-stats-chi-eight-42.vercel.app)
+  [![Top Langs](https://github-readme-stats-qet2.vercel.app/api/top-langs/?username=kxxnayun)](https://github-readme-stats-qet2.vercel.app)
+
 
 
 </div>
