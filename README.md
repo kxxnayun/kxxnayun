@@ -29,7 +29,7 @@
   <br/>
 
   ## 🔍 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxxnayun)](https://github.com/anuraghazra/github-readme-stats)
+  [![kimnayun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxxnayun)](https://github.com/anuraghazra/github-readme-stats)
 
   <br/>
 
