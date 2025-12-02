@@ -29,9 +29,9 @@
   <br/>
 
   ## 🔍 Github Stats
-  [![GitHub stats](https://github-readme-stats-qet2-git-master-kimnayuns-projects.vercel.app/api?username=kxxnayun)](https://github-readme-stats-qet2-git-master-kimnayuns-projects.vercel.app)
-  <br/>
-  [![Top Langs](https://github-readme-stats-qet2-git-master-kimnayuns-projects.vercel.app/api/top-langs/?username=kxxnayun)](https://github-readme-stats-qet2-git-master-kimnayuns-projects.vercel.app)
+  <img src="https://github-readme-stats-qet2-git-master-kimnayuns-projects.vercel.app/api?username=kxxnayun&show_icons=true&theme=transparent&hide_border=true&rank_icon=percentile" width="48%"/>
+  <img src="https://github-readme-stats-qet2-git-master-kimnayuns-projects.vercel.app/api/top-langs/?username=kxxnayun&layout=compact&theme=transparent&hide_border=true&langs_count=6" width="48%"/>
+
 
 
 
