@@ -5,7 +5,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :mortar_board: Software major at Seokyeong University (2nd year) <br/>
+  #### :mortar_board: Software major at Seokyeong University (3rd year) <br/>
   #### :book: UMC Web Develop 9th Challenger <br />
   <br/>
   <br/>
