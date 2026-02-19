@@ -29,10 +29,9 @@
   <br/>
 
   ## 🔍 Github Stats
-  [![GitHub stats](https://github-readme-stats-qet2.vercel.app/api?username=kxxnayun&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400)](https://github.com/kxxnayun)
+   [![GitHub stats](https://github-readme-stats-three-delta-44.vercel.app/api?username=kxxnayun&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400)](https://github.com/kxxnayun)
   <br/> 
-  [![Top Langs](https://github-readme-stats-qet2.vercel.app/api/top-langs/?username=kxxnayun&layout=compact&cache_seconds=86400)](https://github.com/kxxnayun)
-
+  [![Top Langs](https://github-readme-stats-three-delta-44.vercel.app/api/top-langs/?username=kxxnayun&layout=compact&count_private=true&include_all_commits=true&cache_seconds=86400&include_orgs=true)](https://github.com/kxxnayun)
 
 
 
