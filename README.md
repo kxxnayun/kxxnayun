@@ -29,9 +29,10 @@
   <br/>
 
   ## 🔍 Github Stats
-  [![GitHub stats](https://github-readme-stats-qet2.vercel.app/api?username=kxxnayun)](https://github-readme-stats-qet2-git-master-kimnayuns-projects.vercel.app) 
+  [![GitHub stats](https://github-readme-stats-qet2.vercel.app/api?username=kxxnayun&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400)](https://github.com/kxxnayun)
   <br/> 
-  [![Top Langs](https://github-readme-stats-qet2.vercel.app/api/top-langs/?username=kxxnayun)](https://github-readme-stats-qet2-git-master-kimnayuns-projects.vercel.app)
+  [![Top Langs](https://github-readme-stats-qet2.vercel.app/api/top-langs/?username=kxxnayun&layout=compact&cache_seconds=86400)](https://github.com/kxxnayun)
+
 
 
 
