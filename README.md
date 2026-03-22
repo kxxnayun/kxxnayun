@@ -29,5 +29,6 @@
   <br/>
 
   ## 🔍 Github Stats
-   [![GitHub Stats](https://github-readme-stats-three-delta-44.vercel.app/api?username=kxxnayun&show_icons=true&include_all_commits=true&theme=default)](https://github.com/kxxnayun) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kxxnayun&layout=compact&theme=default)](https://github.com/kxxnayun)
+   | [![GitHub Stats](https://github-readme-stats-three-delta-44.vercel.app/api?username=kxxnayun&show_icons=true&include_all_commits=true&theme=default&hide_border=true)](https://github.com/kxxnayun) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kxxnayun&layout=compact&theme=default&hide_border=true)](https://github.com/kxxnayun) |
+   | ------------- | ------------- |
 </div>
