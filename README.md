@@ -6,37 +6,28 @@
   
   ## 👀 About Me
   #### :mortar_board: Software major at Seokyeong University (3rd year) <br/>
-  #### :book: UMC Web Develop 9th Challenger <br />
+  #### :book: 9th UMC SKUNIV Web Challenger <br />
+  #### :book: 9th UMC SKUNIV Leader and Web Challenger <br />
   <br/>
   <br/>
 
   ## 💻 Tech Stack
   <!--HTML5-->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <!--CSS-->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
   <!--JavaScript-->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <!--React-->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
   <!--TailwindCss-->
-  <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=flat-square&logo=tailwind%20css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white"/>
   <!--TypeScript-->
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <!--Java-->
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+  <br/>
   <br/>
   <br/>
 
   ## 🔍 Github Stats
-   [![GitHub stats](https://github-readme-stats-three-delta-44.vercel.app/api?username=kxxnayun&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400)](https://github.com/kxxnayun)
-  <br/> 
-  [![Top Langs](https://github-readme-stats-three-delta-44.vercel.app/api/top-langs/?username=kxxnayun&layout=compact&count_private=true&include_all_commits=true&cache_seconds=86400&include_orgs=true)](https://github.com/kxxnayun)
-
-
-
-
-
-
-
+   [![GitHub Stats](https://github-readme-stats-three-delta-44.vercel.app/api?username=kxxnayun&show_icons=true&include_all_commits=true&theme=default)](https://github.com/kxxnayun) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kxxnayun&layout=compact&theme=default)](https://github.com/kxxnayun)
 </div>
