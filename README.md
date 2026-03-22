@@ -7,7 +7,7 @@
   ## 👀 About Me
   #### :mortar_board: Software major at Seokyeong University (3rd year) <br/>
   #### :book: 9th UMC SKUNIV Web Challenger <br />
-  #### :book: 9th UMC SKUNIV Leader and Web Challenger <br />
+  #### :book: 10th UMC SKUNIV Leader and Web Challenger <br />
   <br/>
   <br/>
 
