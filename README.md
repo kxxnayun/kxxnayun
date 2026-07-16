@@ -2,6 +2,6 @@
   <img
     src="https://render.gitanimals.org/lines/kxxnayun?pet-id=865597833187797680"
     width="600"
-    height="300"
+    height="200"
   />
 </a>
